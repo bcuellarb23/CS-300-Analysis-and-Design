@@ -15,7 +15,7 @@ Hash tables are the fastest data structure among the three we studied in this pr
 
 BSTs auto-sort data upon storage, making it easier to get sorted data when needed; they can grow and shrink as needed, and they also allow the use of recursion. However, its implementation is very complicated, and it has an expensive memory cost due to the use of pointers. BTS running time for a search was O(n log n). 
 
-
+## Reflection
 
 Hash tables were selected as a data structure for this project; this structure solves the advising department's needs of getting a fast and reliable software to get information of a course, handling fast searches for courses and printing a sorted list of the courses. 
 
